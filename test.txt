@@ -1,3 +1,0 @@
-This is a master branch
-
-This is a secondbranch// make conflict
